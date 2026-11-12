@@ -1,0 +1,267 @@
+[
+  {
+    "id": "garlic-egg-fried-rice",
+    "title": "Garlic Egg Fried Rice",
+    "category": "Quick Meals",
+    "prepTime": "15 mins",
+    "servings": 2,
+    "calories": "420 kcal",
+    "difficulty": "Easy",
+    "description": "A comforting, fragrant Filipino-inspired sinangag upgraded with fluffy scrambled eggs and umami soy glaze.",
+    "ingredients": [
+      "rice",
+      "eggs",
+      "garlic",
+      "soy sauce",
+      "cooking oil"
+    ],
+    "optional": [
+      "green onions",
+      "sesame oil",
+      "salt",
+      "pepper"
+    ],
+    "substitutions": {
+      "soy sauce": "Use liquid seasoning (Knorr/Maggi) or a pinch of salt + Worcestershire sauce.",
+      "rice": "Day-old cold rice works best; if using freshly cooked rice, spread it on a plate for 10 mins to cool."
+    },
+    "steps": [
+      "Mince 4-5 cloves of garlic finely. Whisk 2 eggs in a small bowl with a pinch of salt.",
+      "Heat 2 tbsp cooking oil in a wok or wide skillet over medium heat. Fry the minced garlic until golden and fragrant (reserve half for garnish if desired).",
+      "Push garlic to the side, pour in the beaten eggs, and scramble until just set.",
+      "Add 2 cups of cold leftover rice, breaking up any clumps with your spatula.",
+      "Drizzle 1.5 tbsp soy sauce around the edges of the pan and toss over high heat for 2-3 minutes until smoky and evenly coated."
+    ]
+  },
+  {
+    "id": "pork-or-chicken-adobo",
+    "title": "Classic Soy-Vinegar Adobo",
+    "category": "Filipino Classics",
+    "prepTime": "40 mins",
+    "servings": 4,
+    "calories": "510 kcal",
+    "difficulty": "Easy",
+    "description": "Savory, tangy, and rich braised chicken or pork simmered in soy sauce, vinegar, crushed garlic, and bay leaves.",
+    "ingredients": [
+      "chicken",
+      "soy sauce",
+      "vinegar",
+      "garlic",
+      "cooking oil"
+    ],
+    "optional": [
+      "bay leaves",
+      "peppercorns",
+      "brown sugar",
+      "water"
+    ],
+    "substitutions": {
+      "chicken": "Works identically with pork belly, tofu cubes, or hard-boiled eggs.",
+      "vinegar": "Cane vinegar (Datu Puti) is traditional, but apple cider or white vinegar works great."
+    },
+    "steps": [
+      "Combine 500g chicken pieces, 1/3 cup soy sauce, 5 cloves crushed garlic, and black pepper in a bowl. Marinate for at least 15 minutes.",
+      "Heat 1 tbsp oil in a pot over medium-high heat. Sear the chicken pieces (reserving the marinade) until lightly browned on both sides.",
+      "Pour in the reserved marinade, 1/2 cup water, and bay leaves. Bring to a boil, then lower heat and simmer covered for 20 minutes.",
+      "Pour in 1/4 cup vinegar. Do NOT stir for the first 3 minutes so the raw acid cooks off cleanly.",
+      "Simmer uncovered for another 8-10 minutes until the sauce reduces to a glossy glaze. Serve hot with steamed rice."
+    ]
+  },
+  {
+    "id": "tortang-talong",
+    "title": "Tortang Talong (Grilled Eggplant Omelette)",
+    "category": "Budget Friendly",
+    "prepTime": "20 mins",
+    "servings": 2,
+    "calories": "290 kcal",
+    "difficulty": "Easy",
+    "description": "Smoky blistered eggplant flattened into a fan and pan-fried inside a golden, crispy-edged egg batter.",
+    "ingredients": [
+      "eggplant",
+      "eggs",
+      "cooking oil"
+    ],
+    "optional": [
+      "garlic",
+      "onion",
+      "salt",
+      "pepper",
+      "tomato"
+    ],
+    "substitutions": {
+      "eggplant": "No open flame to char? Microwave pricked eggplants for 4-5 mins until soft, then peel."
+    },
+    "steps": [
+      "Char 2 whole Asian eggplants directly over a gas burner or under a broiler for 6-8 minutes until skin is blackened and flesh is tender.",
+      "Let cool slightly, then gently peel away the charred skin while keeping the stem intact.",
+      "Place each peeled eggplant on a plate and press flat with a fork to create a wide fan shape.",
+      "Beat 2-3 eggs in a shallow bowl with salt and pepper. Dip each flattened eggplant into the egg mixture until well coated.",
+      "Fry in a skillet with 2 tbsp hot oil over medium heat for 3 minutes per side until golden brown. Serve with banana ketchup or spiced vinegar."
+    ]
+  },
+  {
+    "id": "sardines-with-misua-or-egg",
+    "title": "Ginisang Sardinas with Egg & Garlic",
+    "category": "Pantry Rescue",
+    "prepTime": "12 mins",
+    "servings": 2,
+    "calories": "340 kcal",
+    "difficulty": "Easy",
+    "description": "A student and weeknight lifesaver: canned sardines in tomato sauce elevated with saut\u00e9ed aromatics and silky egg ribbons.",
+    "ingredients": [
+      "canned sardines",
+      "garlic",
+      "onion",
+      "eggs",
+      "cooking oil"
+    ],
+    "optional": [
+      "tomato",
+      "chili",
+      "salt",
+      "pepper",
+      "water"
+    ],
+    "substitutions": {
+      "canned sardines": "Canned mackerel or tuna in oil/tomato sauce can be used in the exact same way."
+    },
+    "steps": [
+      "Heat 1 tbsp oil in a pan. Saut\u00e9 sliced onion and minced garlic until softened and fragrant.",
+      "Pour in 1 can of sardines in tomato sauce along with 1/4 cup water. Simmer gently for 3 minutes.",
+      "Lightly beat 1-2 eggs and slowly drizzle into the simmering tomato broth while stirring gently to create silky ribbons.",
+      "Season with black pepper and serve immediately over hot rice."
+    ]
+  },
+  {
+    "id": "creamy-garlic-butter-pasta",
+    "title": "15-Minute Garlic Butter & Egg Pasta",
+    "category": "Quick Meals",
+    "prepTime": "15 mins",
+    "servings": 2,
+    "calories": "540 kcal",
+    "difficulty": "Medium",
+    "description": "Silky, restaurant-style emulsified pasta made entirely from pantry staples without needing heavy cream.",
+    "ingredients": [
+      "pasta",
+      "garlic",
+      "butter",
+      "eggs"
+    ],
+    "optional": [
+      "cheese",
+      "pepper",
+      "chili flakes",
+      "olive oil"
+    ],
+    "substitutions": {
+      "butter": "Use olive oil or regular cooking oil with a pinch of extra salt.",
+      "cheese": "Grated cheddar, quickmelt, or parmesan all work\u2014just temper off the heat."
+    },
+    "steps": [
+      "Boil 200g pasta in well-salted water until al dente. Reserve 1/2 cup of starchy pasta cooking water before draining.",
+      "In a separate bowl, whisk 2 egg yolks (or 1 whole egg) with grated cheese and plenty of black pepper.",
+      "Melt 2 tbsp butter in a skillet over low heat and gently saut\u00e9 4 cloves thinly sliced garlic until golden.",
+      "Remove skillet from heat! Add drained hot pasta and a splash of reserved pasta water, tossing quickly.",
+      "Pour in the egg mixture while tossing continuously off-heat so the residual warmth creates a glossy, creamy sauce without scrambling."
+    ]
+  },
+  {
+    "id": "ginisang-monggo",
+    "title": "Ginisang Monggo (Savory Mung Bean Stew)",
+    "category": "Healthy & Hearty",
+    "prepTime": "45 mins",
+    "servings": 4,
+    "calories": "360 kcal",
+    "difficulty": "Medium",
+    "description": "Protein-packed, earthy mung bean stew simmered with garlic, onions, tomatoes, and leafy greens.",
+    "ingredients": [
+      "mung beans",
+      "garlic",
+      "onion",
+      "tomato",
+      "cooking oil"
+    ],
+    "optional": [
+      "spinach",
+      "malunggay",
+      "fish sauce",
+      "pork",
+      "water"
+    ],
+    "substitutions": {
+      "spinach": "Use malunggay leaves, ampalaya (bitter melon) leaves, or chopped bok choy.",
+      "fish sauce": "Season with salt or soy sauce if patis isn't in your pantry."
+    },
+    "steps": [
+      "Rinse 1 cup dried mung beans. Boil in 4 cups water for 30-35 minutes until beans split and soften into a creamy mash.",
+      "In a separate pot, heat 1 tbsp oil and saut\u00e9 minced garlic, chopped onion, and diced tomato until tomatoes break down.",
+      "Pour the cooked mung beans and their broth into the aromatics pot. Stir well and simmer for 5 minutes.",
+      "Season with fish sauce or salt to taste, then fold in fresh spinach or leafy greens for 1 minute until wilted."
+    ]
+  },
+  {
+    "id": "crispy-tofu-sisig",
+    "title": "Crispy Tofu & Soy-Calamansi Sisig",
+    "category": "Budget Friendly",
+    "prepTime": "25 mins",
+    "servings": 3,
+    "calories": "390 kcal",
+    "difficulty": "Easy",
+    "description": "Golden pan-fried tofu cubes tossed in a zesty, savory onion, chili, and soy-citrus dressing.",
+    "ingredients": [
+      "tofu",
+      "onion",
+      "soy sauce",
+      "cooking oil",
+      "garlic"
+    ],
+    "optional": [
+      "calamansi",
+      "mayonnaise",
+      "chili",
+      "eggs",
+      "pepper"
+    ],
+    "substitutions": {
+      "calamansi": "Use lemon juice, lime juice, or a splash of white vinegar for brightness.",
+      "mayonnaise": "Optional for creaminess\u2014skip it for a lighter, tangy soy-garlic glaze."
+    },
+    "steps": [
+      "Pat 300g firm tofu dry with paper towels and cut into small 1/2-inch cubes.",
+      "Pan-fry tofu cubes in hot oil over medium-high heat for 8-10 minutes until golden and crispy on all sides. Drain excess oil.",
+      "In the same pan, saut\u00e9 finely diced red onion, minced garlic, and chopped chili for 1 minute until fragrant.",
+      "Return crispy tofu to the pan, add 2 tbsp soy sauce, 1 tbsp calamansi/lemon juice, and 1 tbsp mayonnaise (optional). Toss well and serve."
+    ]
+  },
+  {
+    "id": "tomato-egg-stir-fry",
+    "title": "Silky Tomato & Egg Stir-Fry",
+    "category": "10-Minute Rescue",
+    "prepTime": "10 mins",
+    "servings": 2,
+    "calories": "260 kcal",
+    "difficulty": "Easy",
+    "description": "Sweet-savory jammy tomatoes folded into velvety scrambled eggs\u2014one of the fastest comfort dishes over steamed rice.",
+    "ingredients": [
+      "eggs",
+      "tomato",
+      "garlic",
+      "cooking oil"
+    ],
+    "optional": [
+      "sugar",
+      "soy sauce",
+      "salt",
+      "green onions"
+    ],
+    "substitutions": {
+      "tomato": "Canned diced tomatoes or 2 tbsp tomato ketchup mixed with water works in a pinch."
+    },
+    "steps": [
+      "Whisk 3 eggs with a pinch of salt. Cut 3 ripe tomatoes into wedges.",
+      "Heat 1 tbsp oil over medium-high heat. Pour in eggs, softly scramble into large curds for 45 seconds, and transfer to a plate.",
+      "Add another tsp of oil to the pan, saut\u00e9 2 cloves minced garlic, then add tomato wedges and stir-fry for 3 minutes until saucy.",
+      "Add a pinch of sugar and a splash of soy sauce or salt, return the eggs to the pan, and fold gently for 20 seconds."
+    ]
+  }
+]
